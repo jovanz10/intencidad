@@ -1,0 +1,2 @@
+# intencidad
+calculo de intensidad 
